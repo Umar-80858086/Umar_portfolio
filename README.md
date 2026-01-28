@@ -33,7 +33,7 @@ To make this repository publicly viewable as a static website:
 
 ## 🛠️ Technical Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript
+- **Frontend**: HTML5, CSS3
 - **Styling**: Custom CSS with modern design patterns
 - **Icons**: Font Awesome 6.4.0
 - **Fonts**: Google Fonts (Poppins, Montserrat)
